@@ -1,2 +1,1 @@
-# training
-I train Github at this repository.
+for my training
